@@ -1,2 +1,15 @@
+let num1 = 31
 
-// Write your code here
+let num2 = 2
+
+let multiply = num1 * num2 
+
+let random = Math.floor(Math.random() * 20) + 1;
+
+let num3 = 12
+
+let num4 = 4
+
+let mod = num4 % num3
+
+let max = Math.max(1, 20)
